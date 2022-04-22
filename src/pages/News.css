@@ -1,0 +1,18 @@
+.news {
+    margin: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.news-item {
+    display: block;
+    backround-color: '#DCEAF5';
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 10px 20%;
+}
+
+.app .news-page h1, .app .news-page form {
+    text-align: center;
+}

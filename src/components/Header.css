@@ -1,0 +1,23 @@
+.header > div{
+
+    font-size: 20px;
+    display: flex;
+}
+
+.header{
+    padding-top: 30px;
+
+}
+.header a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.header div {
+    margin: 0 20px 10px 20px;
+}
+
+.header .login:hover, .header .logout:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,24 @@
+.modal{
+    margin: 0 auto;
+    background-color:#00000080;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.modal .form{
+    background-color:white;
+    height: fit-content;
+    width: 400px;
+    padding: 40px;
+    border-radius: 30px;
+
+}
+
+.button-close{
+    background-color: red;
+    color: white;
+}
